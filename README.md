@@ -30,7 +30,7 @@ A simple **Picture-in-Picture** project that allows users to pop out a selected 
 ## 🖥️ Setup & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/picture-in-picture.git
+   git clone https://github.com/Khairul25556/picture-in-picture.git
    ```
 2. Open `index.html` in a browser.
 3. Click the button to enable Picture-in-Picture mode.
